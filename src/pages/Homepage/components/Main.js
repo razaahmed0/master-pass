@@ -9,7 +9,7 @@ import connected from '../../../assets/connected_2x.png';
 
 const Main = () => {
   return (
-    <section tw='flex flex-col max-w-5xl mx-auto text-black w-full py-5'>
+    <section tw='flex flex-col max-w-5xl mx-auto text-black w-full py-5 mt-20'>
       <h1 tw='font-semibold text-2xl mt-10 mx-auto'>
         Why choose Masterpass for password management?
       </h1>
@@ -40,7 +40,7 @@ const Main = () => {
         </div>
       </div>
 
-      <div tw='py-5 grid grid-cols-2 gap-3 items-center mt-10'>
+      <div tw='py-5 grid grid-cols-2 gap-3 items-center mt-20'>
         <div tw='flex flex-col'>
           <h1 tw='font-bold mb-2'>
             Secure Your Passwords From Any Location or Device
